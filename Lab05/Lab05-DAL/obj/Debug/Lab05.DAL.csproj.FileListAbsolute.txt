@@ -1,0 +1,12 @@
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\bin\Debug\Lab05-DAL.dll.config
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\bin\Debug\Lab05-DAL.dll
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\bin\Debug\Lab05-DAL.pdb
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\obj\Debug\Lab05.DAL.csproj.AssemblyReference.cache
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\obj\Debug\Lab05.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\obj\Debug\Lab05.DAL.csproj.CopyComplete
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\obj\Debug\Lab05-DAL.dll
+C:\Users\Tsukii\OneDrive\Máy tính\kiemtra\New folder\Lab05\Lab05-DAL\obj\Debug\Lab05-DAL.pdb
